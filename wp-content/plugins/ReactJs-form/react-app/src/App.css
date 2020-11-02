@@ -1,0 +1,30 @@
+.enter-input {
+  max-width: 410px;
+  padding: 10px;
+  border-radius: 2px;
+  display: inline;
+}
+
+.App {
+  justify-content: center;
+  padding: 20px;
+  background-color: white;
+}
+
+.gallery-section {
+  justify-content: center;
+}
+
+.gallery {
+  display: grid;
+  grid-template-columns: repeat(8, 1fr);
+  grid-gap: 15px;
+  justify-content: center;
+}
+
+.input-fields {
+  color: black;
+  border-radius: 1px solid;
+  padding: 10px;
+  background-color: grey;
+}
