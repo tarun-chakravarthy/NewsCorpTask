@@ -11,7 +11,7 @@ body {
     background: #fff;
 }
 
-p, h1 {
+p {
     text-align: justify;
     margin: 0 16px;
     line-height: 2
