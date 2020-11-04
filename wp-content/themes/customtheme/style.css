@@ -1,0 +1,36 @@
+/*
+Theme Name: customtheme
+Author: Tarun
+url: https://tarun-chakravarthy.github.io/Profile/
+Version: 1.0
+ */
+
+body {
+    font-family: 'Times New Roman';
+    font-size: 16px;
+    background: #fff;
+}
+
+p, h1 {
+    text-align: justify;
+    margin: 0 16px;
+    line-height: 2
+}
+
+header {
+    position: relative;
+}
+
+.footer-img, .header-img {
+    width: 100%;
+}
+
+.header-text, .page-content {
+    text-align: center;
+}
+
+.header-text {
+    position: absolute;
+    bottom: 65px;
+    left: 280px
+}
